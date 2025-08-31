@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <UpdateConfig>
-<LatestVersion VersionNum="5.5.7.1"></LatestVersion>
-<PreReleaseVersion VersionNum="5.5.7.1"></PreReleaseVersion>
+<LatestVersion VersionNum="5.5.8.7"></LatestVersion>
+<PreReleaseVersion VersionNum="5.5.8.7"></PreReleaseVersion>
 <!--🚫--><UpdateLatestUrl><!--老版本Latest仍旧沿用此版本不实装-->
    <EndlessWorld_DarkGemLand.exe Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/Release/EndlessWorld_DarkGemLand.exe"> </EndlessWorld_DarkGemLand.exe>
    <EndlessWorld_DarkGemLand.SysData.db Url="https://raw.githubusercontent.com/UkokuGemini/EndlessWorld_DarkGemLand-Release/Version_Latest/Release/EndlessWorld_DarkGemLand.SysData.db"></EndlessWorld_DarkGemLand.SysData.db>
@@ -237,6 +237,12 @@
       <File Name="EndlessWorld_DarkGemLand.exe"></File>
       <File Name="EndlessWorld_DarkGemLand.SysData.db"></File>
       <File Name="EndlessWorld_DarkGemLand.UserData.db"></File>
+
+   <Version Num="5.5.8.7" Date="2025-09-01">
+      <File Name="EndlessWorld_DarkGemLand.exe"></File>
+      <File Name="EndlessWorld_DarkGemLand.SysData.db"></File>
+      <File Name="EndlessWorld_DarkGemLand.UserData.db"></File>
+
    </Version>
 </UpdateLog> 
 </UpdateConfig>
